@@ -18,3 +18,7 @@ Eğer çalışan 19 yıldan fazla çalışıyorsa %15 zam yapılacaktır.<br>
 * toString() : Çalışana ait bilgileri ekrana bastıracaktır.
 #### Not: raiseSalary() hesaplarken vergi ve bonusları dikkate almalısınız.
 
+## OUTPUT:
+
+
+![1 - Kopya](https://user-images.githubusercontent.com/75911392/193429247-6084262a-c5a4-4032-838d-8463af12c6a8.png)
